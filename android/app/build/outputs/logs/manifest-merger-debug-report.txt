@@ -5,9 +5,11 @@ INJECTED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/s
 INJECTED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_async-storage] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-screens] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.5] /home/mateus/.gradle/caches/transforms-2/files-2.1/c2b5feac9e57aa69216c8b70dfb6d8d4/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/mateus/.gradle/caches/transforms-2/files-2.1/afb35d5dba96e908e9131fc360388547/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/mateus/.gradle/caches/transforms-2/files-2.1/d5ed5c040ae099675db8785f33a1d28a/AndroidManifest.xml:17:1-24:12
@@ -131,12 +133,16 @@ uses-sdk
 INJECTED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-screens] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-screens] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/mateus/.gradle/caches/transforms-2/files-2.1/c2b5feac9e57aa69216c8b70dfb6d8d4/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/mateus/.gradle/caches/transforms-2/files-2.1/c2b5feac9e57aa69216c8b70dfb6d8d4/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/mateus/.gradle/caches/transforms-2/files-2.1/afb35d5dba96e908e9131fc360388547/AndroidManifest.xml:20:5-22:41

@@ -3,7 +3,7 @@ import { View, Text } from 'react-native';
 
 import 'react-native-gesture-handler';
 import './config/ReactotronConfig';
-
+import './config/StatusBarConfig';
 import Routes from './routes';
 
 // import { Container } from './styles';
