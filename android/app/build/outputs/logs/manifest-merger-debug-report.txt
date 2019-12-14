@@ -5,6 +5,7 @@ INJECTED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/s
 INJECTED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [:@react-native-community_async-storage] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -71,6 +72,8 @@ application
 ADDED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
 MERGED from [com.facebook.react:react-native:0.61.5] /home/mateus/.gradle/caches/transforms-2/files-2.1/c2b5feac9e57aa69216c8b70dfb6d8d4/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.61.5] /home/mateus/.gradle/caches/transforms-2/files-2.1/c2b5feac9e57aa69216c8b70dfb6d8d4/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mateus/.gradle/caches/transforms-2/files-2.1/5f8413f7a8fd8c61c7edf37e16769fb6/AndroidManifest.xml:11:5-20
@@ -133,6 +136,8 @@ uses-sdk
 INJECTED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:@react-native-community_async-storage] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:@react-native-community_async-storage] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -221,3 +226,19 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67

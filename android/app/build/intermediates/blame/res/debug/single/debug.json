@@ -1512,6 +1512,10 @@
         "source": "/home/mateus/.gradle/caches/transforms-2/files-2.1/afb35d5dba96e908e9131fc360388547/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "/home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/build/intermediates/res/merged/debug/xml_file_provider_paths.xml.flat",
+        "source": "/home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/node_modules/react-native-webview/android/build/intermediates/packaged_res/debug/xml/file_provider_paths.xml"
+    },
+    {
         "merged": "/home/mateus/Documents/GOSTACK/REACT NATIVE/modulo06/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
         "source": "/home/mateus/.gradle/caches/transforms-2/files-2.1/c2b5feac9e57aa69216c8b70dfb6d8d4/res/anim/catalyst_fade_out.xml"
     },
